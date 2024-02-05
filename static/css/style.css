@@ -1,0 +1,33 @@
+
+
+.card_img {
+    width: 300px;
+    height: 400px;
+    padding-left: 40px;
+} */
+
+
+
+.container {
+    width: 100%;
+}
+
+.footer {
+    min-height: 60px;
+    width: 100%;
+}
+
+.col {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.wrapper {
+    margin-top: 24px;
+}
+
+.logo {
+    width: 60px;
+    border-radius: 25%;
+}
+
